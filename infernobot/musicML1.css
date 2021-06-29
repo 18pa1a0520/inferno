@@ -1,0 +1,40 @@
+.body{
+    background-image: url(https://cdn1.vectorstock.com/i/1000x1000/50/85/abstract-music-background-with-notes-vector-6375085.jpg);
+    background-size: cover;
+}
+.music{
+	text-align: center;
+    color: black;
+    font-size: 316%;
+}
+.spotify{
+	border-radius: 17px;
+}
+.apple{
+	width: 40%;
+    border-radius: 17px;
+}
+.google{
+	width: 60%;
+    border-radius: 17px;
+}
+.utube{
+	width: 150%;
+    border-radius: 17px;
+}
+.band{
+	width: 70%;
+}
+.shazam{
+	width: 52%;
+}
+.amazon{
+	width: 70%;
+}
+.idagio{
+	width: 150%;
+	border-radius:17px;
+}
+.st{
+	color: skyblue;
+}

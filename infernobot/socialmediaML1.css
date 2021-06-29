@@ -1,0 +1,31 @@
+.body{
+    background-image: url(https://s3.envato.com/files/252241180/Preview%20Image.jpg);
+    background-size: cover;
+}
+
+.socialmedia{
+	text-align: center;
+    color: white;
+    font-size: 364%;
+}
+.fb{
+	    width: 50%;
+}
+.insta{
+        width: 90%;
+}
+.twitter{
+	width: 50%;
+}
+.utube{
+	width: 50%;
+}
+.hike{
+	width: 90%;
+}
+.hooksuite{
+	width: 99%;
+}
+.x{
+	color: white;
+}

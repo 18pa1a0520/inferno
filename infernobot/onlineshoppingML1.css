@@ -1,0 +1,28 @@
+.body{
+    background-image: url(https://www.thehindu.com/business/b2pm1i/article31535182.ece/ALTERNATES/LANDSCAPE_1200/ONLINESHOPPINGFILE);
+    background-size: cover;
+}
+
+.onlineshopping{
+	text-align: center;
+    color: black;
+    font-size: 364%;
+}
+.amazon{
+width: 100%;
+}
+.flipkart{
+width: 48%;
+}
+.ebay{
+width: 50%;
+}
+.jabong{
+width: 65%;
+}
+.nykaa{
+width: 50%;
+}
+.bb{
+width: 50%;
+}

@@ -1,0 +1,27 @@
+.body{
+    background-image: url(https://images.tech.co/wp-content/uploads/2019/12/19112253/future-gaming-708x400.jpg);
+    background-size: cover;
+}
+.h1{
+    color: white;
+    font-size: 369%;
+    text-align: center;
+}
+.racing{
+    color: #b4d530;
+    font-size: 216%;
+}
+.legend{
+    color: wheat;
+    font-size: 121%;
+}
+.fighting{
+    padding-left: 116px;
+    padding-bottom: 123px;
+    color: #b4d530;
+}
+.card{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}

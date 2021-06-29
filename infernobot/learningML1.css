@@ -1,0 +1,30 @@
+.body{
+    background-image: url(https://s3.envato.com/files/57a805b1-b8a9-427d-a2ad-b41061ec7a94/inline_image_preview.jpg);
+    background-size: cover;
+}
+.learning{
+	text-align: center;
+    color: white;
+    font-size: 364%;
+}
+.a1{
+	width: 249px;
+	padding-right: 20px;
+}
+.a2{
+	width: 331px;
+    border-radius: 17px;
+    padding-right: 20px;
+}
+.a3{
+	width: 337px;
+    border-radius: 17px;
+}
+.a4{
+	border-radius: 17px;
+    width: 291px;
+}
+.a5{
+	width:351px;
+    border-radius:17;
+}

@@ -1,0 +1,29 @@
+.body{
+    background-image: url(https://image.shutterstock.com/image-illustration/stock-market-forex-trading-graph-260nw-1170542251.jpg);
+    background-size: cover;
+}
+.trading{
+	text-align: center;
+    color: white;
+    font-size: 364%;
+}
+.trade{
+	width: 290px;
+	padding-right: 20px;
+}
+.td{
+	width: 284px;
+    border-radius: 17px;
+    padding-right: 20px;
+}
+.fidelity{
+	width: 288px;
+    border-radius: 17px;
+}
+.ts{
+	border-radius: 17px;
+    width: 291px;
+}
+.ibkr{
+	width:354px
+}

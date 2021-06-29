@@ -1,0 +1,41 @@
+.body{
+    background-image: url(https://www.eortc.org/app/uploads/2018/04/data_sharing_900x400-950x400.jpg);
+    background-size: cover;
+}
+.data{
+	font-size: 376%;
+    color: white;
+    text-align: center;
+}
+.air{
+	    width: 84%;
+}
+.super{
+	width: 76%;
+}
+.push{
+	width: 84%;
+    border-radius: 17px;
+}
+.portal{
+	width: 94%;
+}
+.xender{
+	width: 66%;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    border-radius: 17px;
+}
+.u{
+	width: 95%;
+    border-radius: 17px;
+}
+.we{
+	width: 117%;
+}
+.text{
+	color: wheat;
+}
+.text1{
+	color:black;
+}
